@@ -50,6 +50,7 @@ p {
 
 .albumimages {
   text-align: center;
+  padding-bottom: 1rem;
 }
 
 footer {
@@ -73,7 +74,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #B782E8
+    color: #B782E8;
 }
 
 @media screen and (max-width: 700px) {

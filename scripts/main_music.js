@@ -24,7 +24,6 @@ albumCovers.forEach(function(el) {
     hideTitle();
     hideAll();
 
-
     switch (e.target.getAttribute('id')) {
           case 'saturation':
             document.querySelector('#gold')
